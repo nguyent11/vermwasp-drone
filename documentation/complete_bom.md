@@ -41,6 +41,31 @@ RFD900x U.S. Telemetry Modem Set (Provided by the Department of Computer Science
 
 [10oz/300mL HDPE Bottle](https://www.amazon.com/5V-12V-Switch-Controller-Control-Lights%EF%BC%88Black/dp/B0CDFL5VVQ?dib=eyJ2IjoiMSJ9.4SVdFGgCVTXYLiqzEdVxTN8Egp5DrGhxVMxTBr2rfnenTDp-MDUdzis5_zImJf0PxJPgMZrQsj3lW0RIZorOTgbZ1rXX7xdglTePLz4RdO3OmzV2XEi1UpzZUloEB7eaFkoY2yHP14Kd4GR-3FZbm8DVwnVjz5kw3j6XU1nPd_Hkz9ZCEyyWYuxG2_lwQxS0Xe-aQ0f_mZNydd1AKyWQMeHRs8nr4Tv-9UhX5zpoTLo.gNi1572hSUxZSIKr-dWUIM9ghNMrNL4fMoztWLiPBxQ&dib_tag=se&keywords=pwm+switch&qid=1745338708&sr=8-4) (QTY 1, Set of 4)
 
+## Video Components
+[RunCam Night Eagle 3](https://www.amazon.com/RunCam-Night-Camera-1000TVL-Support/dp/B09JVG2D5W?crid=NXLJ04EZ0VV&dib=eyJ2IjoiMSJ9.AHYUw6fcYPG-Rp7Oxg8xGq7Y6K2kL2sMduOclyMZf5V-KZU6-GFZu_WjpH_zQGvqaVNjpcifq2cz3ktbK8cVOx11svraCDjX6tclO2piV47N0KzsoJKQ-KnhANEFP5gBy5Yc6CbBzNt0usBFaGFIuQRqqD95ApjbAhn7ZgV4OcRy7jzOwoPW7osUi8YN7JCf8NdID7d7WMKQ7htFehHUktCVQDXgMEIFbG2mUPCwHbU.uG7Gc13-dXfSXp8-N7ApIbb3q2y5znQa7m3jGvP0AbA&dib_tag=se&keywords=runcam+night+eagle+3+v2&qid=1745339378&sprefix=runcam+night+eagle+3+v%2Caps%2C115&sr=8-2) (QTY 1)
+
+[5.8 GHz 600mW Analog Video Transmitter](https://www.amazon.com/AKK-Degree-800TVL-Switchable-Transmitter/dp/B01N48QUIP?crid=1B8QW2SJA8AOS&dib=eyJ2IjoiMSJ9.PAt0yCVIc96Qil8nNVHiV0hFcTFpbHqhCns1jcQZsbYTsmuo0w0HrlomLgoIVTlyXUfApvhCsAn1sc3Kx8fPxNmAcYRFNB3cConvRHjad5F4XR6Pnm2XGTs2Ar3HM-0FN2uW0_382IUG3ZoTJxfpTvpNU5jGAU89INChO48-oMWVZ6HP_zhXvJ45_vgVW5yAgDGFvigHVXxFVIPRVMawclLo8erLyzgP13qd2t8OmOFkPdGsBsCaQGdxZykdpcI2vVzX3YvrrZg9Q_mFNQbwwghi-Sq0Fo9mfsEXUywIh70.YZ4isz6yTyPKqG9lNvoco3dJouaESJVcFujWpw41GPs&dib_tag=se&keywords=fpv+video+transmitter&qid=1745339343&sprefix=fpv+video+transmitte%2Caps%2C128&sr=8-4) (QTY 1)
+
+[RC832S 5.8 GHz Analog Video Receiver](https://speedyfpv.com/products/rc832s-5-8ghz-av-fpv-receiver-48-channel-7-26v-with-cables?_pos=1&_sid=6e2b42b1c&_ss=r) (QTY 1)
+
+[Analog Video Capture Card](https://www.amazon.com/Capture-Converter-USB-Convert-Camcorder-Compatible/dp/B0CB6BW6X4?crid=2TEIG3T9EKUUC&dib=eyJ2IjoiMSJ9.5zwDMia5dh86zR7IZnh_eDfSguZYpeyAbheqtowKXDLXGi07L1BhmEU-MkSYLPWM6qxDJzKoGBSty-0O8wlJylJYxrJluB4zBcExMlMGnGNWaooRiLJBt_HqmS_Gu1yq_fErp7GCRBu7MGTz0XdJ7B3bqRvQeiFXPeRnAX-agct1fHcMsyqhfkPtsgWr5p5-E_zja7uoITVWje4rzPNyTeju3AuDS5N5kUqyb5c95rE.PmKrOMi_kf3uCIno_HcPX08ZSV27A7pIKh57ztJlN9Y&dib_tag=se&keywords=analog+video+capture+card&qid=1745339316&sprefix=analog+video+capture+car%2Caps%2C156&sr=8-1) (QTY 1)
+
+[450 mAh 3s LiPo Battery](https://www.amazon.com/TATTU-450mAh-Battery-Torrent-Flite/dp/B0714GN73V?crid=UPRNFF3NQT28&dib=eyJ2IjoiMSJ9.Ztq7rHFce0wU0fYy3cFOxnF22AqvjOgOCXKA_wLLub9dVPUIoIKuuFAbHRPc-0lrq4-WctufKoNaIJEoe6dIl557qoJwT5ZODALEKxTS8ziCm7lyk8A6r-3CeBb0I8Xrhkstyik0sggzUX1SYgBn__XQJt7IWimVRxuxTU3KaINcj7O9nhZs8EP6sWxgbIpf8l2igYuUaTpcKJk8EWKko00fNfhWMqoQEhICnCd7cTtsPgeXFmEO8NTn99RqTdUunwTMmrv9D6YAsccc155tR5UUyeRhxmPhe6MGvVjDfNg.QnDbJi3uHGhGAHSBnhkm1_X4qkgnvgUiRLvHwYz_ccA&dib_tag=se&keywords=3s+lipo+battery&qid=1745339500&sprefix=3s+lipo+batter%2Caps%2C140&sr=8-8) (QTY 1)
+
+## RC Components
+[FrSky Taranis 2.4 GHz Q X7 Transmitter](https://www.amazon.com/FrSky-2-4GHz-Taranis-Access-Transmitter/dp/B08689K3BM?crid=2JQZU7JTOJWTD&dib=eyJ2IjoiMSJ9.b4UV5x3tKj-rFasLvVM7kT7KfPFh3AdrH1pCpwnYSZFlkcU0FvpRKodo6zrA8H0keC-KLmgIfLitR6mIZbc6XQdM0iNhVx9BOqmd3ye5p241-lJ3A0A_kLdQkDpfZBLnuHFgn_UABrTgIfkzhKudoqrG7WvUvBQKSY5-MSL2cZPfhbq30i2nXKNFhHDtBSaOhZ3kiBlWy7RAXKoY192heolfY29dxUU-vXCR0c5RG6EOH6nuc1DYnaR7MYBGBfSovqEpfMSHykthxs2g9GWp1VoUNzJhjNQFpv0BQQO7djk.lLgCEMS8aiTMn0Mao-VVDVH2VIiuitoCsL_4xItNhY0&dib_tag=se&keywords=frsky+taranis&qid=1745339801&sprefix=frsky+taranis%2Caps%2C155&sr=8-4) (QTY 1)
+
+[FrSky Taranis 2.4 GHz X8R Receiver](https://www.amazon.com/FrSky-Taranis-Compatible-Receiver-8-Channel/dp/B00RCAHHFM?crid=2JQZU7JTOJWTD&dib=eyJ2IjoiMSJ9.b4UV5x3tKj-rFasLvVM7kT7KfPFh3AdrH1pCpwnYSZFlkcU0FvpRKodo6zrA8H0keC-KLmgIfLitR6mIZbc6XQdM0iNhVx9BOqmd3ye5p241-lJ3A0A_kLdQkDpfZBLnuHFgn_UABrTgIfkzhKudoqrG7WvUvBQKSY5-MSL2cZPfhbq30i2nXKNFhHDtBSaOhZ3kiBlWy7RAXKoY192heolfY29dxUU-vXCR0c5RG6EOH6nuc1DYnaR7MYBGBfSovqEpfMSHykthxs2g9GWp1VoUNzJhjNQFpv0BQQO7djk.lLgCEMS8aiTMn0Mao-VVDVH2VIiuitoCsL_4xItNhY0&dib_tag=se&keywords=frsky+taranis&qid=1745339801&sprefix=frsky+taranis%2Caps%2C155&sr=8-2) (QTY 1)
+
+## Miscellaneous
+M3 Screws Steel (Provided by the Department of Computer Science and Engineering)
+
+[M2.5 Screws Steel](https://www.amazon.com/Assortment-Stainless-Replacement-Machine-Fastener/dp/B0CRRCYZHS?crid=3E875BNSJCAH1&dib=eyJ2IjoiMSJ9.Cy5oCkjvePeCP5p8x42FtSoYWVu0AP1nCCLsaMW7yknOTZ69JG-uwKGhweJIucdGFBu37QGc_8CBYQze9MwqIDq6pw0O1RVyiimn4Mk0A25HSqy5eMGe7BgyOmCV2OOBFXxGvFO5DYsFO9oManwc32nfsK8hXJoHiyV6bZfgWfeeAWuP02W_Vy7tMjGmqL5ZR3wAJ8dNNiIDNETPlnuBED4ZtzAcci-uLqzf7xfR-dw.1KySRno3a2XRISGWB1Dou8x_aw4er3kq7pmKU2RsssI&dib_tag=se&keywords=m2.5+steel+screws&qid=1745339628&sprefix=m2.5+steel+screw%2Caps%2C140&sr=8-1) (QTY 1)
+
+[2.54mm Dupont Connector Set](https://www.amazon.com/Taiss-Connector-Housing-Adaptor-Assortment/dp/B0B11SX39B?crid=1BMP9EWUGE11L&dib=eyJ2IjoiMSJ9.xfXe0n2f1tWUEIJ8NBUQbLgCwxRQZ2MUjDFSxpQMC5pRWyzZalSk4RarV8RiqtlUmDkfdDUF02ehaWbvLLhBSKPA61W8qGqPNspB7m8Phx1NZi-rgF-ztfxIM_J6ORyG7A752I2Y8j8j1iZsR1t6M5sawsQ0qZ5Y_JZLlhlHr_SeqYIrqwGc4IcdizGsZG00i9mVHoCA2fMOhu5AVHYhWbHk_MMSfSGav_zL4iOc1zU.6j4veP9XuGxu6mMZpYjtqOuPDBH3zHLAbKzWKoPDJ5k&dib_tag=se&keywords=2.54mm+dupont&qid=1745339668&sprefix=2.54mm+dupon%2Caps%2C139&sr=8-4) (QTY 1)
+
+[Rubberized Battery Straps](https://www.amazon.com/Apex-RC-Products-Rubberized-Non-Slip/dp/B01F7MEDW6?crid=1YUOQ2Q6FSN4D&dib=eyJ2IjoiMSJ9.f4-aQhMzVCun_laVRW_JML245SNf1yk_OA_V3d7WLV7UEjxE1VA7fUoMlzEqlOWoHOdUdGyCg2uAyCmrIWE9zHrcRAFrsOIffV8w9bsTJefbGml2oKe3fy3wuY8s2JdRaCETzXVSh4Y72DcXxKrQird_mUeLHD0rYxZMpbTKXmJAUXjfUFhLS83rlOz75ck2q1rzF50R2LZI0L8j-UkRTGKKQCombjYklfrCibw8mCX9tNFa2_E-skCELP1IACCLRId7ZgsIDJ4ITdd4DTphwRh1DDwWQalYXsp72Abia_w.Od2b5tYG3c9NkvMSSOY6p6uXgjoYB_smnXzm4cWJyr0&dib_tag=se&keywords=rubberized+battery+straps&qid=1745339713&sprefix=rubberized+battery+strap%2Caps%2C137&sr=8-4) (QTY 1, Set of 5)
+
 
 ## Costs
 A lot...
