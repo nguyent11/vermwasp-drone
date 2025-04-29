@@ -10,6 +10,10 @@
 
 [Deans female to XT60 male adapter](https://a.co/d/5JDpXND) (QTY 1)
 
+[XT60 12AWG](https://www.amazon.com/Pairs-Female-Connector-Silicon-Battery/dp/B07QH249CR?crid=26L340072BL07&dib=eyJ2IjoiMSJ9.0YnSmPGdZzvK6yfmD8-tob78TP2ymBHqDVjnG_GaEY56tCkm81OxttOBVUtrWq889jexQQ1P19Elo9rNqHnF5DQndylRIOlkle6rpU6p-k2CagQYMQHTm78uAA_RNKIa0leE9ABITnjOIhJxU49CViIOA4UNx0ytGHFl_5kULz8ANB22ISG60oOZlrBdR2qV9Kyy29JrKEPWC8khJKATeSpO0h1MwMIGTTmv1So1UEs.4VtuBRwk-DvV1oq1j35SyVohlywlYAbjqFmOBam9XJ8&dib_tag=se&keywords=xt60+12awg&qid=1745949891&sprefix=xt60+12awg%2Caps%2C109&sr=8-4) (QTY 1, Set of 3 pairs)
+
+[XT60 14AWG](https://www.amazon.com/Pairs-Connector-Female-Silicon-Battery/dp/B085HF31K7?crid=AZZHJRK5ZGG7&dib=eyJ2IjoiMSJ9.PQhLb3vkakdxz645bu1Rh111V-amYAOrDCAWJwC8GzbiNCqqH5B6OzWMXK8YMGV_cxOHVu6eHmY1zNkeHycRCjcWRSOFlbfASMv0saVE1lnRJtP0snsh8o25s-VIwlWpZnuVSsLf8hVijREpb5CwOFVOoMUfSfQiW8UAOCQhHfIFznoLl2__Z8XMXXPSql3nyXrY6WAMwaba2hSRbQtZHzec8JpLxdZ0VNDB2O40QLs.ymRQpy4jQ1xmpUDWLCcqwAyPxlAVkoBW1Unphm2kk6E&dib_tag=se&keywords=xt60+14awg&qid=1745949903&sprefix=xt60+14awg%2Caps%2C109&sr=8-3) (QTY 2, Set of 5 pairs)
+
 ## Avionics
 ### Flight Controller
 [CubePilot Cube Orange+ with ADS-B Carrier Board](https://irlock.com/products/cube-orange-plus-standard-set)
