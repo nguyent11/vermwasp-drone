@@ -70,6 +70,10 @@ M3 Screws Steel (Provided by the Department of Computer Science and Engineering)
 
 [Rubberized Battery Straps](https://www.amazon.com/Apex-RC-Products-Rubberized-Non-Slip/dp/B01F7MEDW6?crid=1YUOQ2Q6FSN4D&dib=eyJ2IjoiMSJ9.f4-aQhMzVCun_laVRW_JML245SNf1yk_OA_V3d7WLV7UEjxE1VA7fUoMlzEqlOWoHOdUdGyCg2uAyCmrIWE9zHrcRAFrsOIffV8w9bsTJefbGml2oKe3fy3wuY8s2JdRaCETzXVSh4Y72DcXxKrQird_mUeLHD0rYxZMpbTKXmJAUXjfUFhLS83rlOz75ck2q1rzF50R2LZI0L8j-UkRTGKKQCombjYklfrCibw8mCX9tNFa2_E-skCELP1IACCLRId7ZgsIDJ4ITdd4DTphwRh1DDwWQalYXsp72Abia_w.Od2b5tYG3c9NkvMSSOY6p6uXgjoYB_smnXzm4cWJyr0&dib_tag=se&keywords=rubberized+battery+straps&qid=1745339713&sprefix=rubberized+battery+strap%2Caps%2C137&sr=8-4) (QTY 1, Set of 5)
 
+12 AWG Wire (Provided by the Department of Computer Science and Engineering)
+
+16 AWG Wire (Provided by the Department of Computer Science and Engineering)
+
 
 ## Costs
 A lot...
