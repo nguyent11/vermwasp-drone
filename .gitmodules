@@ -1,3 +1,6 @@
 [submodule "src/external/PX4-Autopilot"]
 	path = src/external/PX4-Autopilot
 	url = https://github.com/PX4/PX4-Autopilot.git
+[submodule "src/desktop_camera_application/rjc"]
+	path = src/desktop_camera_application/rjc
+	url = git@github.com:nguyent11/rjc.git
