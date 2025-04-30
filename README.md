@@ -7,4 +7,4 @@ In this project, we propose a design for an aerial spraying platform. The idea i
 This repository contains source code, links to other repositories, STL files for 3D models, and other documentation used in the development of this project.
 
 ## About the Team
-The team is named after Dwayne LaFontant aka The Verminator from Over the Hedge produced by DreamWorks.
+The team is named after Dwayne LaFontant aka The Verminator from Over the Hedge produced by DreamWorks. The team's emblem takes inspiration from Helldivers 2 by Arrowhead Game Studios.
