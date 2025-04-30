@@ -74,6 +74,11 @@ M3 Screws Steel (Provided by the Department of Computer Science and Engineering)
 
 16 AWG Wire (Provided by the Department of Computer Science and Engineering)
 
+[Anti-Vibration Balls](https://www.amazon.com/dp/B073LPTHCL?_encoding=UTF8&psc=1&ref_=cm_sw_r_cp_ud_dp_WQJ314N7MB5YKV9JEKTD) (QTY 1)
+
+3M Adhesive Backed Hook and Loop Fastener (Provided by the Department of Computer Science and Engineering)
+
+Zip Ties (Provided by the Department of Computer Science and Engineering)
 
 ## Costs
 A lot...
