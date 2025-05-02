@@ -1,6 +1,0 @@
-[submodule "src/desktop_camera_application/rjc"]
-	path = src/desktop_camera_application/rjc
-	url = git@github.com:nguyent11/rjc.git
-[submodule "src/drone_firmware/external/PX4-Autopilot"]
-	path = src/drone_firmware/external/PX4-Autopilot
-	url = git@github.com:PX4/PX4-Autopilot.git
