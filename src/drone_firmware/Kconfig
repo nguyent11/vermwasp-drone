@@ -1,0 +1,5 @@
+menuconfig MODULES_sprayer
+    bool "sprayer"
+    default y
+    ---help---
+        Enable support for sprayer
