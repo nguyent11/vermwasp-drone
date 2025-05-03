@@ -14,9 +14,7 @@ PX4 Autopilot makes it simple to compile new firmware modifications. This drone 
     make cubepilot_cubeorangeplus
 ```
 
-After compiling the new firmware, firmware can be uploaded to the drone through QGroundControl. Connect the flight controller to the ground station computer using a Micro USB to USB cable. Under vehicle settings and under firmware, a custom install can be selected. When performing a custom install, select the modified firmware desired, then flash the firmware.
-
-Refer to [PX4 developer's documentation](https://docs.px4.io/main/en/development/development.html) on how to build PX4 software for more information.
+After compiling the new firmware, firmware can be uploaded to the drone through QGroundControl. Connect the flight controller to the ground station computer using a Micro USB to USB cable. Under vehicle settings and under firmware, a custom install can be selected. When performing a custom install, select the modified firmware desired, then flash the firmware. Refer to [PX4 developer's documentation](https://docs.px4.io/main/en/development/development.html) on how to build PX4 software or setup a development environment for more information.
 
 If you are not developing for the drone, but for whatever reason, lost the firmware for the flight controller, the firmware can be rebuilt from this repository. Traverse starting from the root of the repository and going to src/drone_firmware/ and enter the following command:
 ```
