@@ -1,5 +1,18 @@
 # Verminator Wasp Drone Manual
 
+## Setting Up a Development Environment
+To configure your system for development purposes, traverse to the desired directory to store this projet. Then clone the repository:
+```
+    cd path/to/desired/location
+    git clone git@github.com:nguyent11/verm-wasp-drone.git
+    cd verm-wasp-drone
+```
+
+This project links other repositories as submodules. To clone the submodules, run the following command:
+```
+    git submodule update --init --recursive
+```
+
 ## Hardware
 This manual mainly covers instructions regarding the operation of the hardware. For more information on hardware implementations, take a look at the [Detailed Design Specification](https://github.com/nguyent11/verm-wasp-drone/blob/main/documentation/detailed_design_specification_r2.pdf) document for design and implementation details.
 
@@ -55,7 +68,8 @@ To fill the liquid insectide tank, unscrew the tank from the cap and silicone tu
 ## Software
 For software, we currently only support building from source. The verm-wasp-drone repository contains a link to a submodule called rjc. In the rjc repository, the README contains instructions on how to build from source.
 
-In summary,
+### RJCamera (rjc)
+Build rjc from source with the following commands:
 ```
     bash configure.sh
     qmake6
