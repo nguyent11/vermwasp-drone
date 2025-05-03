@@ -1,7 +1,7 @@
 # Verminator Wasp Drone Manual
 
 ## Setting Up a Development Environment
-To configure your system for development purposes, traverse to the desired directory to store this projet. Then clone the repository:
+To configure your system for development purposes, traverse to the desired directory to store this project. Then clone the repository:
 ```
     cd path/to/desired/location
     git clone git@github.com:nguyent11/verm-wasp-drone.git
