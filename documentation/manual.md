@@ -18,7 +18,7 @@ After compiling the new firmware, firmware can be uploaded to the drone through 
 
 Refer to [PX4 developer's documentation](https://docs.px4.io/main/en/development/development.html) on how to build PX4 software for more information.
 
-If you are not developing for the drone, but for whatever reason, lost the firmware for the flight controller, the firmware can be rebuilt from this repository. Traverse to the root of the repository and enter the following command:
+If you are not developing for the drone, but for whatever reason, lost the firmware for the flight controller, the firmware can be rebuilt from this repository. Traverse starting from the root of the repository and going to src/drone_firmware/ and enter the following command:
 ```
     bash build_firmware.sh
 ```
